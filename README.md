@@ -23,3 +23,7 @@ Once the issue is described, wait for an Open Food Facts moderator or member of 
     - a specific edit rule on [Product Opener](https://github.com/openfoodfacts/openfoodfacts-server) for significant contributing apps
   
 In the created Github issue, you should keep a summary of every communication with the app owner so that everybody knows the current state of each issue.
+
+## How to get in touch / get more info 
+- Visit https://wiki.openfoodfacts.org/Data_quality
+- You can ping the data quality team in #quality-data in Slack
