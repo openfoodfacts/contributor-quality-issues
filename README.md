@@ -25,7 +25,10 @@ Once the issue is described, wait for an Open Food Facts moderator or member of 
 In the created Github issue, you should keep a summary of every communication with the app owner so that everybody knows the current state of each issue.
 
 ## Solving the issue more widely
-- A better documentation, reusable software components, proactive reachout, generic defensive and corrective measures are an even better solution to prevent those problems even happen or provoke data quality issues. We should invest time into those, which is way more efficient that plugging holes down the road.
+- A better documentation, reusable software components, proactive reachout, generic defensive and corrective measures are an even better solution to prevent those problems before they even happen or provoke data quality issues.
+- We should invest time into those, which is way more efficient that plugging holes down the road.
+- You can look at our moderation hub Nutri-Patrol https://github.com/openfoodfacts/nutripatrol-frontend which needs Development Love.
+- We do monthly data quality meetings at the beginning of each month. See how to join at https://wiki.openfoodfacts.org/Data_quality#5._Join_the_effort_to_improve_data_quality
 
 
 ## How to get in touch / get more info 
